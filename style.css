@@ -1,0 +1,22 @@
+*{
+    text-decoration: none;   
+}
+.c2{
+    white-space: pre;
+   
+}
+nav ul li{
+   
+    display:inline-block;
+}
+a.c1,a:hover{
+    color: white;
+    background: orange;
+    transition: .0s;
+
+}
+a.c3,a:hover{
+    color: white;
+    background: #808080;
+
+}
